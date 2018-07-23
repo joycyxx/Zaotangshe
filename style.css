@@ -1,0 +1,21 @@
+body{
+    background-image: url(bgpic.png);
+    width: 99%;
+    color: #000000;
+
+}
+
+header{
+    background-image: url(header.jpg);
+    position:relative;
+    /*color:black;*/
+    /*text-align: center;*/
+    /*font-family:Impact;*/
+    /*font-size: 100px;*/
+
+    width: 75%;
+    min-width:99%;
+    margin: auto;
+
+
+}
